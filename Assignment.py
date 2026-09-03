@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Ubaid Tahir")
+print("Python is a great programing language")
+print("I am learning Python")
+print("It is my frist project asignment")
